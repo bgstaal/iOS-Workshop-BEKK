@@ -1,0 +1,172 @@
+{
+	"participants":
+	[
+		{
+			"firstName": "Bjørn Gunnar",
+			"lastName": "Staal",
+			"department": "Interactive",
+			"field": "Frontend",
+			"seniority": "Senior",
+            "imageName": "bjorn.png",
+			"proficiency":
+			{
+				"languages": "Javascript, Actionscript 2/3, PHP, C++, Java, Objective-C",
+				"clientTech": "XHTML, HTML5, CSS, Javascript, Flash/Flex, iOS, Adobe AIR, openFrameworks, iOS"
+			},
+			"instructor": true
+		},
+
+		{
+			"firstName": "Mads",
+			"lastName": "Mobæk",
+			"department": "Interactive",
+			"field": "Frontend",
+			"seniority": "Konsulent",
+            "imageName": "mads.png",
+			"proficiency":
+			{
+				"languages": "Java, Ruby, Objective-C, PHP4/5, JavaScript, SQL, Subversion, Git, Mercurial, C#, C++, Flex, ActionScript, PL/SQL",
+				"clientTech": "(X)HTML, XML, XSL, XSLT, CSS, Ajax, LESS, SASS. Grunnleggende CoffeeScript"
+			},
+			"instructor": true
+		},
+
+		{
+			"firstName": "Hanne",
+			"lastName": "Olsen",
+			"department": "Interactive",
+			"field": "Frontend",
+			"seniority": "Konsulent",
+            "imageName": "hanne.png",
+			"proficiency":
+			{
+				"languages": "PHP, Ruby on Rails",
+				"clientTech": "HTML4, HTML5, CSS, Javascript, JQuery, Responsive design"
+			}
+		},
+
+		{
+			"firstName": "Andreas",
+			"lastName": "Øverland",
+			"department": "Interactive",
+			"field": "Frontend",
+			"seniority": "Manager",
+            "imageName": "andreas.png",
+			"proficiency":
+			{
+				"languages": "Java, C/C++, Perl",
+				"clientTech": "CSS, HTML, XHTML, JavaScript, Ajax, Objective C, ActionScript, AppleScript"
+			}
+		},
+
+		{
+			"firstName": "Lars",
+			"lastName": "Skjelbek",
+			"department": "Tech",
+			"field": ".net frontend",
+			"seniority": "Konsulent",
+            "imageName": "lars.png",
+			"proficiency":
+			{
+				"languages": "C#, .NET, ASP.NET, ASP.NET MVC3, Java, Python, XML, Eclipse, IntelliJ, Visual Studio, Expression Blend",
+				"clientTech": "Windows Phone 7 (WP7), Silverlight, Windows Presentation Foundation (WPF), HTML, CSS, LESS, JSP, JavaScript, handlebars, backbone.js"
+			}
+		},
+
+		{
+			"firstName": "Ole Christian",
+			"lastName": "Rynning",
+			"department": "Tech",
+			"field": "Dynamiske språk",
+			"seniority": "Senior",
+            "imageName": "ole.png",
+			"proficiency":
+			{
+				"languages": "Ruby, Java, C, JavaScript, Python, SQL, Bash, Clojure, Scala, C#, Perl, PHP",
+				"clientTech": "Ruby on Rails, Sinatra, Unfiltered, Play, Lift, Grails, Wicket, Jersey, Spring MVC, RESTlet, JEE, XML-*, RDF*, OWL, Topic Maps, CSS og JavaScript (jQuery, Prototype, Handlebars, Mustache, m.fl.)"
+			}
+		},
+
+		{
+			"firstName": "Anders",
+			"lastName": "Kristiansen",
+			"department": "Tech",
+			"field": "Mobil",
+			"seniority": "Konsulent",
+            "imageName": "anders.png",
+			"proficiency":
+			{
+				"languages": "Java, Android, PHP, Subversion, Git, Mercurial, Eclipse, IntelliJ IDEA, REST, Google App Engine",
+				"clientTech": "HTML, CSS, JavaScript, jQuery, AJAX, JSF, Icefaces"
+			}
+		},
+
+		{
+			"firstName": "Kim Joar",
+			"lastName": "Bekkelund",
+			"department": "Tech",
+			"field": "Webarkitektur",
+			"seniority": "Konsulent",
+            "imageName": "kim.png",
+			"proficiency":
+			{
+				"languages": "Ruby, PHP, Python, Java, Node.js i tillegg til grunnleggende kunnskaper i Scala og Haskell",
+				"clientTech": "JavaScript, CoffeeScript, JQuery, Backbone.js, Underscore.js, Prototype, HTML5, Haml, CSS3, Sass, Less, Mustache, Handlebars. Mye erfaring med testdrevet JavaScript, blant annet med Jasmine, JsTestDriver, Mocha og Buster.js."
+			}
+		},
+
+		{
+			"firstName": "Eirik",
+			"lastName": "Stien",
+			"department": "Tech",
+			"field": ".net Frontend",
+			"seniority": "Konsulent",
+            "imageName": "eirik.png",
+			"proficiency":
+			{
+				"languages": "C#, ASP.NET, Java, PHP, Python, SQL, JavaScript",
+				"clientTech": "WP7, jQuery, XHTML/HTML5, DOM, CSS"
+			}
+		},
+
+		{
+			"firstName": "Jøran",
+			"lastName": "Lillesand",
+			"department": "Tech",
+			"field": "Webarkitektur",
+			"seniority": "Senior",
+            "imageName": "joran.png",
+			"proficiency":
+			{
+				"languages": "Java, Spring IOC, Spring MVC, Spring JDBC, JUnit, Hibernate, FitNesse, Cucumber, JavaCard smartkort, JSP, SQL, HTML5, Ruby, noe Python, PHP og C++, SOAP, JavaScript",
+				"clientTech": "HTML, XML, JavaScript, CSS"
+			}
+		},
+        {
+            "firstName": "Jørgen",
+            "lastName": "Jervidalo",
+            "department": "Tech",
+            "field": "Dynamiske Språk",
+            "seniority": "Konsulent",
+            "imageName": "jorgen.png",
+			"proficiency":
+			{
+				"languages": "Java, C#, XML, PHP, SQL, Python, Lisp, Ruby, Wordpress",
+				"clientTech": "XHTML, CSS, Javascript, jQuery, Ajax, JSP, JSF, Rails 3"
+			}
+        },
+		{
+            "firstName": "Eivind",
+            "lastName": "Ingebrigtsen",
+            "department": "Interactive",
+            "field": "Frontend",
+            "seniority": "Manager",
+            "imageName": "eivind.png",
+			"proficiency":
+			{
+				"languages": "Ruby, PHP, Mac OSX",
+				"clientTech": "HTML, Javascript, jQuery, ActionScript, CSS"
+			}
+        }
+	]
+}
